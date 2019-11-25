@@ -1,6 +1,6 @@
 # Practice-Python
-### Python Challanges - Beginner Level
+### Python Challanges 
 
-This repository contains examples of Python programming like: loops, functions, native datatypes, etc
+This repository contains examples of Python programming NumPy, GepPy, Pandas,nltk etc.
 
  
